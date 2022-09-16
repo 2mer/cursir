@@ -1,0 +1,2 @@
+# cursir
+cursor sharedspace application
